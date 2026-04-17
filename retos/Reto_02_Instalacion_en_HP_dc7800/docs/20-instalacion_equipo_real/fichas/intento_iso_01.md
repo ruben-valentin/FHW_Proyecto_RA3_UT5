@@ -16,7 +16,7 @@
 - Tipo de instalación elegido:
  
 EJEMPLOS: 
-- Instalación limpia usando todo el disco
+  - Instalación limpia usando todo el disco
   - Instalación guiada automática
   - Instalación manual
   - Borrar disco e instalar Linux
@@ -28,7 +28,7 @@ EJEMPLOS:
 - Esquema de particionado usado:
   
 EJEMPLOS: 
-- Particionado automático
+  - Particionado automático
   - Una sola partición raíz / en ext4
   - Partición raíz / + partición swap
   - Partición / + /home + swap
