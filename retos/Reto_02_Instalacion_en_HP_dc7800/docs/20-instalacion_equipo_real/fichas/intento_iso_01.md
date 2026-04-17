@@ -17,23 +17,23 @@
  
 EJEMPLOS: 
 - Instalación limpia usando todo el disco
-- Instalación guiada automática
-- Instalación manual
-- Borrar disco e instalar Linux
-- Instalación personalizada
-- Instalación en modo gráfico
--  Instalación en modo texto
+  - Instalación guiada automática
+  - Instalación manual
+  - Borrar disco e instalar Linux
+  - Instalación personalizada
+  - Instalación en modo gráfico
+  -  Instalación en modo texto
 
 
 - Esquema de particionado usado:
   
 EJEMPLOS: 
 - Particionado automático
-- Una sola partición raíz / en ext4
-- Partición raíz / + partición swap
-- Partición / + /home + swap
-- GPT con partición EFI + / en ext4 + swap
-- MBR con partición primaria ext4 para / y partición swap
+  - Una sola partición raíz / en ext4
+  - Partición raíz / + partición swap
+  - Partición / + /home + swap
+  - GPT con partición EFI + / en ext4 + swap
+  - MBR con partición primaria ext4 para / y partición swap
   
 - Pasos principales realizados(TODOS LOS RELEVANTES):
   1.
