@@ -23,7 +23,8 @@ EJEMPLOS:
 - Instalación personalizada
 - Instalación en modo gráfico
 -  Instalación en modo texto
-  
+
+
 - Esquema de particionado usado:
   
 EJEMPLOS: 
