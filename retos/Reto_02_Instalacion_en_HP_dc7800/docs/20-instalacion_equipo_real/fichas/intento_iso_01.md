@@ -12,7 +12,9 @@
 
 ## 3. Instalación
 - ¿Se llegó al instalador?
+  
 - Tipo de instalación elegido:
+ 
 EJEMPLOS: 
 - Instalación limpia usando todo el disco
 - Instalación guiada automática
@@ -21,6 +23,7 @@ EJEMPLOS:
 - Instalación personalizada
 - Instalación en modo gráfico
 -  Instalación en modo texto
+  
 - Esquema de particionado usado:
 EJEMPLOS: 
 - Particionado automático
