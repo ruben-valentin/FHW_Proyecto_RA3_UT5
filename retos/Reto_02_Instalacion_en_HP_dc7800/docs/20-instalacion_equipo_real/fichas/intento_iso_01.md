@@ -25,6 +25,7 @@ EJEMPLOS:
 -  Instalación en modo texto
   
 - Esquema de particionado usado:
+  
 EJEMPLOS: 
 - Particionado automático
 - Una sola partición raíz / en ext4
